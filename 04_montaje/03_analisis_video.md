@@ -99,8 +99,7 @@ Fallé en dos colores de los cables frontales pero los arreglé.
 - Riesgo de mala ventilación
 
 📌 Valoración técnica:
-
----
+Tuve dificultad a la hora de encontrar donde se ponian los cables pero todo fue bien en general.
 
 ## 🧩 Fase 5: Encendido y comprobación
 
@@ -120,15 +119,15 @@ Fallé en dos colores de los cables frontales pero los arreglé.
 
 ## ✔️ Aciertos
 
-- 
-- 
-- 
+- Instalación de almacenamiento
+- Instalación de componentes principales
+- Preparación
 
 ---
 
 ## ❌ Fallos detectados
 
-- 
+- Cableado
 - 
 - 
 
@@ -136,8 +135,8 @@ Fallé en dos colores de los cables frontales pero los arreglé.
 
 ## ⚠️ Riesgos potenciales
 
-- 
-- 
+- Que el PC explote
+- Hacerme daño mientras monto el PC
 - 
 
 ---
@@ -145,8 +144,8 @@ Fallé en dos colores de los cables frontales pero los arreglé.
 # 🧠 REFLEXIÓN FINAL
 
 - ¿El montaje es correcto en general? Justifica.
-
+En general es bueno porque mi PC consiguió encender.
 - ¿Crees que este equipo funcionaría a largo plazo sin problemas? ¿Por qué?
-
+No. Porque es viejo
 - Si fueras técnico en una empresa, ¿darías este equipo como válido o lo revisarías?
-
+Lo revisaría porque no tenia red el PC
