@@ -1,6 +1,6 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno: Daniel Robla Arias
 ## 🖥️ Equipo:
 
 ---
@@ -22,26 +22,20 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 1
 
-📌 Descripción:
-(¿Qué ha ocurrido?)
+📌 Descripción: El PC no ha cnseguido encender
 
-📌 Tipo:
-(Real / Simulado)
+📌 Tipo: Real
 
-📌 Fase del montaje:
-(Ejemplo: instalación de RAM, cableado, etc.)
+📌 Fase del montaje: Cableado
 
-📌 Causa:
-(¿Por qué ocurre?)
+📌 Causa: Puse mal dos cables frontales
 
-📌 Consecuencia:
-(¿Qué problema provoca?)
+📌 Consecuencia: Que no consiga encenderse el PC
 
-📌 Solución aplicada o propuesta:
-(¿Cómo se soluciona?)
+📌 Solución aplicada o propuesta: Poner el orden correcto de los colores
 
 📌 ¿Cómo prevenirlo?
-(Qué harías para evitarlo)
+Buscar en Google el orden
 
 📸 Evidencia (si aplica):
 
@@ -49,9 +43,9 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 2
 
-📌 Descripción:
+📌 Descripción: Se ha soltado la placa base de su lugar
 
-📌 Tipo:
+📌 Tipo: Simulado
 
 📌 Fase del montaje:
 
