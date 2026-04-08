@@ -22,7 +22,7 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 1
 
-📌 Descripción: El PC no ha cnseguido encender
+📌 Descripción: El PC no ha conseguido encender
 
 📌 Tipo: Real
 
@@ -47,15 +47,15 @@ Buscar en Google el orden
 
 📌 Tipo: Simulado
 
-📌 Fase del montaje:
+📌 Fase del montaje: Instalación de componentes principales
 
-📌 Causa:
+📌 Causa: No estaba atornillada
 
-📌 Consecuencia:
+📌 Consecuencia: No funciona el PC
 
-📌 Solución:
+📌 Solución: Poner los tornillos a la placa base
 
-📌 Prevención:
+📌 Prevención: Asegurarme de que está atornillada
 
 📸 Evidencia:
 
@@ -63,19 +63,19 @@ Buscar en Google el orden
 
 # 🔴 ERROR 3
 
-📌 Descripción:
+📌 Descripción: No tengo casi memoria en mi PC
 
-📌 Tipo:
+📌 Tipo: Simulado
 
-📌 Fase del montaje:
+📌 Fase del montaje: Instalación de componentes principales
 
-📌 Causa:
+📌 Causa: La placa base no tenía memoria RAM
 
-📌 Consecuencia:
+📌 Consecuencia: No tener mucha memoria en el PC
 
-📌 Solución:
+📌 Solución: Ponerle una memoria RAM a la placa base
 
-📌 Prevención:
+📌 Prevención: Comprar una placa base
 
 📸 Evidencia:
 
@@ -84,6 +84,7 @@ Buscar en Google el orden
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Qué error te parece más grave? ¿Por qué?
+Que no esté atornillada la placa base porque sino la placa base se podría dañar y además el PC no funcionaría.
 
 - ¿Qué error es más común en principiantes?
 
