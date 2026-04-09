@@ -87,5 +87,7 @@ Buscar en Google el orden
 Que no esté atornillada la placa base porque sino la placa base se podría dañar y además el PC no funcionaría.
 
 - ¿Qué error es más común en principiantes?
+Poner mal el orden de los colores de los cables frontales
 
 - ¿Qué has aprendido sobre la importancia de montar correctamente un equipo?
+Pues que si no lo montas bien va a ser difícil que funcione y tendrás que gastarte dinero en que alguien te lo haga
