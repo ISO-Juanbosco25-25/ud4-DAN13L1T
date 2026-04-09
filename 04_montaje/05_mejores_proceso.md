@@ -1,6 +1,6 @@
 # 🔧 PROPUESTAS DE MEJORA DEL PROCESO DE MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno: Daniel Robla Arias
 ## 🖥️ Equipo:
 
 ---
@@ -25,16 +25,16 @@ Las mejoras deben ser:
 # 🟢 MEJORA 1
 
 📌 ¿Qué mejorarías?
-(Describe el cambio que harías)
+El conocimiento sobre los componentes de un PC.
 
 📌 ¿Por qué?
-(Explica el motivo)
+Porque así puedo saber para que funcionan, como se acoplan y donde van enchufados.
 
 📌 ¿Cómo lo harías mejor?
-(Explica el proceso correcto)
+Sin pararme a pensar donde va cada componente y asi no quedarme pensando y perdiendo el tiempo, y sin tener que mirar en Internet donde se ponen los componentes 
 
 📌 ¿Qué beneficio tiene?
-(Ejemplo: evitar errores, mejorar rendimiento, mayor seguridad…)
+Mejorar mi renndimiento y evitar errores comúnes.
 
 ---
 
